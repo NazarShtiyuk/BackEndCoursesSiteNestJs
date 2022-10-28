@@ -1,0 +1,1 @@
+export const pageNotFoundError = 'page with this id not found';
